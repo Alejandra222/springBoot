@@ -45,6 +45,11 @@
 		</dependency>
 
 
+		<dependency>
+			<groupId>es.avalon</groupId>
+			<artifactId>jpa001</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
